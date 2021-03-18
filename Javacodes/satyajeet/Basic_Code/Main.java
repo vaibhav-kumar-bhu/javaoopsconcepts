@@ -8,7 +8,7 @@ import java.lang.*;
 		 System.out.println("Access");
 	}
 }
-public class StaticandnonStaticMethod extends Accessmodifiers {
+public class Main extends Accessmodifiers {
     
     
     public static void main(String args[]) {
