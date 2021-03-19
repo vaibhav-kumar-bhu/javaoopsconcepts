@@ -4,7 +4,7 @@ import java.lang.*;
 
 public class StaticandnonStaticMethod {
     
-      // this is static method
+      // this is static method 
       public static void staticmethod()
       {
       	  System.out.println("static method");
@@ -22,5 +22,7 @@ public class StaticandnonStaticMethod {
          staticmethod();
          //  non static method need to have object
          nonstaticObj.nonstaticmethod();
+         
+
     }
 }
