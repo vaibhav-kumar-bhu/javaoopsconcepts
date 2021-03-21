@@ -27,7 +27,7 @@ public class Collection2{
       // print the element
       System.out.println(list2);
 
-      // get the element
+      // get the element1
       Object o=list2.poll();
       System.out.println(o);
       System.out.println(list2);
