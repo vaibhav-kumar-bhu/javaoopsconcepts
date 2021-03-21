@@ -47,5 +47,7 @@ public class Collection3{
      System.out.println(hash1);
      hash1.remove(61);
      System.out.println(hash1);
+
+     TreeSet<Integer>tree=new TreeSet<>(Arrays.asList(2,1,5,6,6,7,8));
  }
 }
