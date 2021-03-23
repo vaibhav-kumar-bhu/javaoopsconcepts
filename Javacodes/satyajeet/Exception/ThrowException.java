@@ -22,11 +22,11 @@ public class ThrowException{
 
   public static void divideByZero() {
 
-  {
-        throw new ArithmeticException("Trying to divide by 0");
-  }
+    // throw an exception
+    throw new ArithmeticException("Trying to divide by 0");
+        // throw new Exception("/Trying to divide by 0");
 
-  
+  }
 
     
 
@@ -46,6 +46,7 @@ public class ThrowException{
     {
     	 System.out.println(e);
     }
+
 
      
  }
